@@ -1,5 +1,8 @@
 let quizQuestions = [
     {
+        question: "Tu aime Fanfan"
+            options: ["oui","non","un peu"
+    {
         question: "Quel auteur a écrit 'Le Cid' en 1637 ?",
         options: ["Molière", "Corneille", "Racine"],
         answer: "Corneille"
